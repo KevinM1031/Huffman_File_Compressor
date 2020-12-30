@@ -1,4 +1,4 @@
-# Huffman_File_Compressor
+# Visualized_Huffman_Compressor
 
 A file compressing software which utilizes the Huffman encoding/decoding algorithms. The Huffman Tree is displayed with animation when compressing an item. The GUI window is made to fit the Mac OS, although it is still usable with Windows (with a few elements overlapping). It is originally my Freshman year's project, but added the visualizer and decoding feature for extra credit and fun. This happens because I made this GUI when I was not very knowledgeable about building GUIs with Java.
 
